@@ -2,6 +2,6 @@
 
 I'm a:
 
-💻Front-end Developer
-🎵Music Producer
-🛹Skater
+💻Front-end Developer  
+🎵Music Producer  
+🛹Skater  

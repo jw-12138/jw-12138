@@ -8,4 +8,4 @@ I'm a:
 🎵Music Producer  
 🛹Skater  
 
-My blog: [https://jw12138.com](https://jw12138.com)  
+My blog: [https://jw1.dev](https://jw1.dev)  

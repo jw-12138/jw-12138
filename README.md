@@ -9,14 +9,16 @@ I'm a:
 🛹Skater  
 
 My blog: [https://jw1.dev](https://jw1.dev)  
-<hr>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jw-12138">
-</a>
+---
 
-<br>
+#### Some of my projects:
+ 
+- kover.js: https://jw1.dev/kover.js/  
+  > Using Vanilla JavaScript to implement CSS `background-size: cover`
 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=jw-12138&count_private=true">
-</a>
+- lessby: https://jw1.dev/lessby/  
+  > A simple less file cli-compiler.
+
+- vsharp: https://jw1.dev/vite-plugin-vsharp/  
+  > A Vite plugin that compresses static images by using sharp.js

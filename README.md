@@ -11,6 +11,9 @@ I'm a:
 My blog: [https://jw1.dev](https://jw1.dev)  
 
 ## Some of my projects:
+
+- m42: https://m42.jw1.dev
+  > an Instant Messaging App that has strong security features
  
 - kover.js: https://jw1.dev/kover.js/  
   > Using Vanilla JavaScript to implement CSS `background-size: cover`

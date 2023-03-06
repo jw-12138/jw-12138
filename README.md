@@ -13,7 +13,7 @@ My blog: [https://jw1.dev](https://jw1.dev)
 ## Some of my projects:
 
 - DaVinci GPT-3: https://chat.jw1.dev
-  > A ChatGPT alternative, using OpenAI's API, language model is text-davinci-003.
+  > A ChatGPT alternative, using OpenAI's API
 
 - m42: https://m42.jw1.dev
   > An Instant Messaging App that has strong security features

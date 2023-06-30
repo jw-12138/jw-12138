@@ -12,8 +12,8 @@ My blog: [https://jw1.dev](https://jw1.dev)
 
 ## Some of my projects:
 
-- DaVinci GPT-3: https://chat.jw1.dev
-  > A ChatGPT web interface, simplified, renewed
+- 只言: https://zy.jw1.dev
+  > 使用OpenAI API开发的一个对话型机器人
 
 - m42: https://m42.jw1.dev
   > An Instant Messaging App that has strong security features

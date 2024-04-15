@@ -1,19 +1,26 @@
 name: update readme
 
-on: 
+on:
   schedule:
     - cron: 0 */6 * * *
 
 jobs:
-  update:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
       - name: checkout
-          uses: actions/checkout@v4
+        uses: actions/checkout@v4
       - name: setup node
-          uses: actions/setup-node@v4
-          with:
-            node-version: 18.x
-            cache: npm
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18.x
+          cache: npm
       - name: run script
-        run: node update.js
+        run: node update.mjs
+      - name: commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: README.md
+          author_name: jacky (github action)
+          author_email: 29943110+jw-12138@users.noreply.github.com
+          push: true

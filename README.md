@@ -5,7 +5,11 @@ My name is **_Jacky_**.
 I'm a:  
 
 - Front-end Developer <sup>💻</sup>   
-- Music Producer <sup>🎵</sup>      
+- Music Producer <sup>🎵</sup>
+
+Coding activities on Wakatime:
+
+<img width="670" src="https://wakatime.com/share/@jw1dev/98cf10f7-c3e8-4dca-9844-68acd963fdb8.svg">
 
 Latest update on my blog:
   

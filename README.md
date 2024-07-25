@@ -5,7 +5,7 @@ My name is **_Jacky_**.
 I'm a:  
 
 - Front-end Developer <sup>💻</sup>   
-- Music Producer <sup>🎵</sup>
+- Music Producer <sup>🎵</sup>     
 
 Latest update on my blog:
   

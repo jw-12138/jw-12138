@@ -6,7 +6,7 @@ My name is **_Jacky_**.
 
 I'm a:  
 
-- Front-end Developer <sup>💻</sup>   
+- Front-end Developer <sup>💻</sup> [![wakatime](https://wakatime.com/badge/user/ce55500b-c1b3-442e-9ea0-8c879a1b767a.svg)](https://wakatime.com/@ce55500b-c1b3-442e-9ea0-8c879a1b767a)  
 - Music Producer <sup>🎵</sup>     
 
 Latest update on my blog:

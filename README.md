@@ -9,8 +9,8 @@ I'm a:
 
 Latest update on my blog:
   
-- [Problems with Vibe Coding](https://jw1.dev/problems-with-vibe-coding) 
-- [可能是最后一次更换博客引擎](https://jw1.dev/blog-engine) 
-- [Desktop notifications for Codex CLI and Claude Code](https://jw1.dev/desktop-notifications-for-codex-cli-and-claude-code) 
-- [Dating App Sucks Pt.2](https://jw1.dev/dating-app-sucks-pt2) 
-- [The Cursor Moment in Music Production](https://jw1.dev/cursor-moment-in-music-production) 
+- [Problems with Vibe Coding](https://jw1.ai/problems-with-vibe-coding) 
+- [可能是最后一次更换博客引擎](https://jw1.ai/blog-engine) 
+- [Desktop notifications for Codex CLI and Claude Code](https://jw1.ai/desktop-notifications-for-codex-cli-and-claude-code) 
+- [Dating App Sucks Pt.2](https://jw1.ai/dating-app-sucks-pt2) 
+- [The Cursor Moment in Music Production](https://jw1.ai/cursor-moment-in-music-production) 
